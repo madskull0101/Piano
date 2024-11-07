@@ -20,7 +20,10 @@ A simple, interactive virtual piano built with HTML, CSS, and JavaScript. This p
 ![Screenshot](#)  
 ![Screenshot 2024-11-07 140119](https://github.com/user-attachments/assets/9decf09d-f657-438d-a30a-814382dfb369)
 
-*Description of the screenshot, e.g., "A view of the piano interface with interactive keys."*
+*"A view of the piano interface."*
+![Screenshot 2024-11-07 140134](https://github.com/user-attachments/assets/f26edace-18fd-40f0-8b8e-6d237c64ba31)
+*"A view of the piano interface with interactive keys."*
+
 
 ## 🛠️ Built With
 
