@@ -24,6 +24,10 @@ A simple, interactive virtual piano built with HTML, CSS, and JavaScript. This p
 ![Screenshot 2024-11-07 140134](https://github.com/user-attachments/assets/f26edace-18fd-40f0-8b8e-6d237c64ba31)
 *"A view of the piano interface with interactive keys."*
 
+![Screenshot 2024-11-07 140223](https://github.com/user-attachments/assets/6112a8eb-05ba-49a4-8c2a-bc6f88432b77)
+*"A view of the piano interface with interactive keys while playing."*
+
+
 
 ## 🛠️ Built With
 
@@ -69,6 +73,8 @@ Contributions are welcome! Please feel free to submit a pull request.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
 Let me know if you need any adjustments!
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [youremail@example.com](jhaa78144@gmail.com).
+
